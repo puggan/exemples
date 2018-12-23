@@ -1,0 +1,26 @@
+{
+  "name": "bug-exemple-gulp-typescript",
+  "version": "1.0.0",
+  "description": "Showing the bug with gulp-typescript, gulp-cache and gulp-flatmap, not working togheter",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puggan/exemples.git"
+  },
+  "author": "Puggan Sundragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puggan/exemples/issues"
+  },
+  "homepage": "https://github.com/puggan/exemples#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-cli": "^2.0.1",
+    "gulp-flatmap": "^1.0.2",
+    "gulp-typescript": "^5.0.0"
+  }
+}
